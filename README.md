@@ -39,7 +39,7 @@ DocuSeek revolutionizes organizational efficiency by combining AI-powered docume
 | Backend         | FastAPI (Python)         |
 | Frontend        | React.js                 |
 | Messaging       | Twilio WhatsApp API      |
-| Deployment      | Docker, AWS/GCP          |
+| Deployment      | Render         |
 
 ## Getting Started :rocket:
 
@@ -50,9 +50,3 @@ DocuSeek revolutionizes organizational efficiency by combining AI-powered docume
 - Twilio account with WhatsApp API enabled
 - Google Cloud API key (for Gemini)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/docuseek.git
-   cd docuseek
