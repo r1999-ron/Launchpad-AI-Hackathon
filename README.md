@@ -92,6 +92,37 @@ Upload and classify documents into Type A, B, or C categories for better control
 
 ---
 
+---
+
+## 📆 Attendance & Leave Management (Add-on Module)
+
+Managing leave approvals and attendance tracking is now easier than ever!
+
+**DocuSeek's Attendance System** add-on simplifies everyday HR operations by allowing employees and managers to:
+
+### 🧾 Submit Requests via Chat
+- Employees can send **leave** or **WFH requests** directly through WhatsApp.
+- Supports natural language input.  
+  _Example: "Apply leave from April 10 to April 12 for personal reasons"_
+
+### ✅ Real-Time Approvals
+- Managers get instant WhatsApp notifications for leave approvals.
+- Approve or reject requests with a single tap — no additional tools needed.
+
+### 📥 Automated Logging
+- Approved leaves are **automatically logged** into the internal HR database.
+- Removes the need for manual updates in spreadsheets or tools.
+
+### 📅 Calendar Integration
+- Syncs leave data with internal calendars for better team visibility.
+- Detects conflicts with upcoming project timelines or overlapping leaves.
+
+### 🧠 Smart Reminders
+- Sends auto-reminders to managers for **pending approvals**.
+- Notifies employees about upcoming holidays or unapproved requests.
+
+---
+
 ## 🏁 Thank You!
 **DocuSeek** is here to boost productivity, secure access, and simplify communication — one question at a time.
 
