@@ -92,8 +92,6 @@ Upload and classify documents into Type A, B, or C categories for better control
 
 ---
 
----
-
 ## 📆 Attendance & Leave Management (Add-on Module)
 
 Managing leave approvals and attendance tracking is now easier than ever!
