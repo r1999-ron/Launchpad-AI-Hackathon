@@ -5,85 +5,109 @@
 ![Node.js Version](https://img.shields.io/badge/node.js-14%2B-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-**AI-powered enterprise search and workflow automation via WhatsApp**
+# 📄 DocuSeek – Smart Document Search Assistant
 
-DocuSeek revolutionizes organizational efficiency by combining AI-powered document retrieval with HR automation through the familiar WhatsApp interface.
+Welcome to **DocuSeek**, a chat-based assistant designed to eliminate productivity bottlenecks by providing instant answers from internal documents through a secure, role-based system.
 
-## Table of Contents
-- [Key Features](#key-features-sparkles)
-- [Technology Stack](#technology-stack-computer)
-- [Getting Started](#getting-started-rocket)
-- [Deployment](#deployment-arrow_forward)
-- [Screenshots](#screenshots-camera)
-- [API Reference](#api-reference-books)
-- [FAQ](#faq-question)
-- [Roadmap](#roadmap-map)
-- [Contributing](#contributing-handshake)
-- [License](#license-page_facing_up)
-- [Contact](#contact-email)
+---
 
-## Key Features :sparkles:
+## 🔍 Understanding the Problem
 
-### :brain: Intelligent Search
-- Natural language queries for policies, guidelines, and reports
-- Semantic understanding with Google Gemini and Hugging Face models
-- FAISS-powered vector search for lightning-fast results
-- Context-aware document recommendations
+Many professionals waste valuable time on repetitive, low-value tasks:
 
-### :date: Attendance Automation
-- Submit leave/WFH requests via WhatsApp
-- Manager approval workflows with real-time notifications
-- Automated attendance logging
-- Calendar integration and conflict detection
+### 🕵️ Policy Hunter
+- Spends 30+ minutes looking up simple company policies  
+- *Example:* “Is pizza reimbursable?”
 
-### :lock: Secure Access
-- Role-based permissions for document access
-- Enterprise-grade data protection
-- Audit trails for all interactions
-- End-to-end encryption for sensitive data
+### 💼 Staffing Detective
+- Manually reviews resumes to match profiles with project requirements
 
-### :control_knobs: Admin Dashboard
-- Centralized document management
-- Approval workflow configuration
-- Analytics and reporting
-- User activity monitoring
+### 📋 Overwhelmed Organizer
+- Tracks leave requests and approvals manually  
+- Often misses or overlooks crucial information
 
-## Technology Stack :computer:
+---
 
-| Component        | Technology               |
-|-----------------|--------------------------|
-| AI/ML           | Google Gemini, Hugging Face |
-| Vector Database | FAISS                    |
-| Backend         | FastAPI (Python)         |
-| Frontend        | React.js + Tailwind CSS  |
-| Messaging       | Twilio WhatsApp API      |
-| Authentication  | JWT                      |
-| Deployment      | Render                   |
-| CI/CD           | GitHub Actions           |
+## 😣 Pain Points
+- ⏱️ 30+ mins spent on simple policy lookups  
+- 🔍 Time-consuming manual resume reviews  
+- 📅 Frequent leave/attendance tracking oversights  
 
-## Getting Started :rocket:
+---
 
-### Prerequisites
+## 🚀 Solution – DocuSeek
 
-- Python 3.8+
-- Node.js 14+
-- Twilio account with WhatsApp API enabled
-- Google Cloud API key (for Gemini)
-- PostgreSQL (for production)
+**"What if document search was as easy as chatting with a friend?"**
 
-### Installation
+Introducing **DocuSeek** —  
+A WhatsApp-based chat application that lets employees, managers, and stakeholders ask natural language questions and get relevant information instantly from company documents — all while respecting document confidentiality through **role-based access**.
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/docuseek.git
-cd docuseek
+---
 
-# Backend setup
-cd backend
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+## 🎯 Project Objective
 
-# Frontend setup
-cd ../frontend
-npm install
+**DocuSeek aims to:**
+
+### 🔎 Simplify Information Access
+- Ask a question → Instantly get answers from documents
+
+### 🔐 Ensure Secure Access with Roles
+- **Employees** → Access Type A documents (policies, guidelines)  
+- **Managers** → Access Type A & B (internal reports, team data)  
+- **Stakeholders** (God Role) → Access A, B & C (confidentials, contracts)
+
+### 🛠️ Empower Admins
+- Upload documents via a dedicated **Admin Portal**  
+- Classify documents into **Type A, B, or C**  
+- Ensure **role-based security** and **discoverability**
+
+---
+
+## 👥 Target Audience
+
+| Role         | Access Level     | Examples                        |
+|--------------|------------------|---------------------------------|
+| Employees    | Type A           | Employee, HR                    |
+| Managers     | Type A & B       | Technical Manager, People Manager |
+| Stakeholders | Type A, B & C    | Founder’s Team, Directors       |
+| Admin        | All Access       | Upload & classify docs          |
+
+---
+
+## 💡 How It Works
+
+### 🗨️ Chat Interface
+Ask questions like:  
+- “What’s the WFH policy for Apple clients?”  
+- “What is the notice period at Payoda?”
+
+### 🧠 Smart Search
+DocuSeek parses and searches through all uploaded documents to find the most relevant answer.
+
+### 🔐 Role-Based Security
+Ensures only the right users see the right documents.
+
+### 🛠️ Admin Dashboard
+Upload and classify documents into Type A, B, or C categories for better control and compliance.
+
+---
+
+## 📽️ Demo Video
+🎬 [Insert link to demo video here]  
+See DocuSeek in action—how it simplifies internal communication and document access in real-time!
+
+---
+
+## 🤝 Connect with Us
+
+- 📧 Email: [your-email@example.com]  
+- 💬 WhatsApp: [+91-XXXXXXXXXX]  
+- 🌐 Website: [your-site.com] (if available)
+
+---
+
+## 🏁 Thank You!
+**DocuSeek** is here to boost productivity, secure access, and simplify communication — one question at a time.
+
+⭐ *Star this repo if you find it helpful!*  
+🔧 *Open an issue if you want to contribute or suggest a feature.*
