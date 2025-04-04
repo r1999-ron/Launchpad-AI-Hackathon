@@ -92,20 +92,6 @@ Upload and classify documents into Type A, B, or C categories for better control
 
 ---
 
-## 📽️ Demo Video
-🎬 [Insert link to demo video here]  
-See DocuSeek in action—how it simplifies internal communication and document access in real-time!
-
----
-
-## 🤝 Connect with Us
-
-- 📧 Email: [your-email@example.com]  
-- 💬 WhatsApp: [+91-XXXXXXXXXX]  
-- 🌐 Website: [your-site.com] (if available)
-
----
-
 ## 🏁 Thank You!
 **DocuSeek** is here to boost productivity, secure access, and simplify communication — one question at a time.
 
