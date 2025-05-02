@@ -121,6 +121,16 @@ Managing leave approvals and attendance tracking is now easier than ever!
 
 ---
 
+## 🛠️ Tech Stack
+
+- **LLM & AI**: Google Gemini, Hugging Face  
+- **Vector Search**: FAISS  
+- **Backend**: FastAPI  
+- **Messaging & Automation**: Twilio WhatsApp API  
+- **Frontend**: ReactJS for admin and dashboard applications
+
+---
+
 ## 🏁 Thank You!
 **DocuSeek** is here to boost productivity, secure access, and simplify communication — one question at a time.
 
