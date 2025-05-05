@@ -132,7 +132,7 @@ Managing leave approvals and attendance tracking is now easier than ever!
 ---
 
 ## Demo
-![PRs Welcome](https://drive.google.com/file/d/1TwicAzMpwA203hGq3n-kTFj2xXeqz5Os/view?usp=sharing)
+[Watch the video here](https://drive.google.com/file/d/1TwicAzMpwA203hGq3n-kTFj2xXeqz5Os/view?usp=sharing)
 
 ## 🏁 Thank You!
 **DocuSeek** is here to boost productivity, secure access, and simplify communication — one question at a time.
